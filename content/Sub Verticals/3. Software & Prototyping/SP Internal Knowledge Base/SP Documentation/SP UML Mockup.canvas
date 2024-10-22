@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"1119c7cc2b2302dd","type":"group","x":600,"y":-918,"width":280,"height":918,"label":"MyOtherClass"},
+		{"id":"18e8f4710cf47429","type":"group","x":100,"y":-918,"width":187,"height":1055,"label":"MyClass"},
+		{"id":"dc97853611ae9d60","type":"file","file":"Sub Verticals/3. Software & Prototyping/SP Internal Knowledge Base/SP Documentation/SP Documentation.md","x":-905,"y":-680,"width":365,"height":120},
+		{"id":"f3717c40ec7da259","type":"file","file":"Attachments/Screenshot 2024-09-10 at 11.28.20.png","x":-905,"y":-960,"width":365,"height":225},
+		{"id":"59f400fdd536cce9","type":"text","text":"Event/Signal","x":-682,"y":-437,"width":142,"height":60,"color":"3"},
+		{"id":"5c79a583d03aef6c","type":"text","text":"Additive Mutation","x":-720,"y":-345,"width":180,"height":50,"color":"4"},
+		{"id":"8b8b9031de0844e4","type":"text","text":"Subtractive Mutation","x":-744,"y":-260,"width":204,"height":60,"color":"1"},
+		{"id":"aa0e257fad40151a","type":"text","text":"Async Function","x":-704,"y":-160,"width":164,"height":60,"color":"6"},
+		{"id":"2a487a39361b8581","type":"text","text":"Pure / Static Variable","x":-744,"y":-60,"width":204,"height":60},
+		{"id":"94c622489135c4fe","type":"text","text":"State","x":-631,"y":-520,"width":91,"height":60,"color":"5"},
+		{"id":"bfc1fc5d994bec01","type":"text","text":"Subtractive()","x":120,"y":-363,"width":147,"height":50,"color":"1"},
+		{"id":"a658fbc7ed119a21","type":"text","text":"Additive()","x":689,"y":-610,"width":123,"height":50,"color":"4"},
+		{"id":"5eb1f5f9c91782e2","type":"text","text":"Async()","x":697,"y":-80,"width":108,"height":60,"color":"6"},
+		{"id":"d9dccdf3f3994100","type":"text","text":"Variable","x":695,"y":-223,"width":111,"height":60,"color":"5"},
+		{"id":"b225c5ea4ac21891","type":"text","text":"Additive()","x":132,"y":-540,"width":123,"height":50,"color":"4"},
+		{"id":"311086976ddb17dd","type":"text","text":"Async()","x":140,"y":-163,"width":108,"height":60,"color":"6"},
+		{"id":"c5ee62b05365e157","type":"text","text":"Variable","x":139,"y":-898,"width":111,"height":60,"color":"5"},
+		{"id":"89254e6e5949e826","type":"text","text":"Event/Signal","x":122,"y":-728,"width":142,"height":60,"color":"3"},
+		{"id":"1f01a93981b20697","type":"text","text":"Variable","x":695,"y":-898,"width":111,"height":60,"color":"5"},
+		{"id":"538ca7fd14be32df","type":"text","text":"Pure ()","x":143,"y":57,"width":102,"height":60},
+		{"id":"9480a1df0fa0a726","type":"text","text":"Event/Signal","x":680,"y":-754,"width":142,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"46c7632fdd61e6ce","fromNode":"c5ee62b05365e157","fromSide":"bottom","toNode":"89254e6e5949e826","toSide":"top","color":"5"},
+		{"id":"f618e3161cc490c1","fromNode":"b225c5ea4ac21891","fromSide":"left","toNode":"c5ee62b05365e157","toSide":"left","color":"4"},
+		{"id":"cafe49851917266d","fromNode":"538ca7fd14be32df","fromSide":"left","toNode":"b225c5ea4ac21891","toSide":"left"},
+		{"id":"5d0fa45358e3591f","fromNode":"bfc1fc5d994bec01","fromSide":"left","toNode":"c5ee62b05365e157","toSide":"left","color":"1"},
+		{"id":"d87a22e71f77e166","fromNode":"89254e6e5949e826","fromSide":"right","toNode":"a658fbc7ed119a21","toSide":"left","color":"3","label":"async"},
+		{"id":"db7bbaf318c588c1","fromNode":"9480a1df0fa0a726","fromSide":"right","toNode":"d9dccdf3f3994100","toSide":"right","color":"3","label":"async"},
+		{"id":"2692b3db92b749e3","fromNode":"311086976ddb17dd","fromSide":"right","toNode":"5eb1f5f9c91782e2","toSide":"left","color":"6","label":"async"},
+		{"id":"b7830b83d94eca9e","fromNode":"1f01a93981b20697","fromSide":"left","toNode":"9480a1df0fa0a726","toSide":"left","color":"5"},
+		{"id":"21946d53864120e7","fromNode":"a658fbc7ed119a21","fromSide":"right","toNode":"1f01a93981b20697","toSide":"right","color":"4"}
+	]
+}

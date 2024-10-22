@@ -1,0 +1,80 @@
+---
+tags:
+  - ongoing
+---
+
+Working on [[From DT]]
+
+- [ ] [[Figma]] tasks:
+  - [ ] figjam sync
+  - [ ] library of content across design files and figjam files
+  - [ ] make [[Figma vs Miro]]
+  - [ ] plugin: https://help.figma.com/hc/en-us/articles/4407260620823--BYFP-1-Overview
+- [ ] mobile AR interaction - AC
+- [ ] [[Index|Almanac]]
+  - [ ] [[Quartz]]
+    - [ ] password protected sites --woah
+    - [ ] not all sites are visible
+    - [ ] database folders plugin does not work
+  - [x] create templates
+  - [x] relearn templater
+    - [x] Using a function call, let the user create a note and specify where it is going to be placed
+      - [x] template needed
+      - [x] note name
+      - [x] note path
+      - [x] fn call from a note
+  - [x] Autosearch page to see if another page with the same phrase exists (autocomplete links like tags)
+    - [ ] figure out the obsidian display
+  - [x] Add hardware and provisions [[From Aaron]]
+    - [x] glossary in format is easiest to maintain
+      - [x] Callouts?
+        - [x] Easy to format, hard to unformat
+  - [ ] Clean up [[Mixed Reality]] / [[Unity]] / [[Floorplan placement]]
+- [x] To ASK
+  - [x] DT for github access?
+  - [x] Aaron for syllabus / provisions
+  - [x] help with build settings
+  - [x] IT for how to use ninja w new laptop
+- [ ] Collaborative art-making [Sol LeWit](https://en.wikipedia.org/wiki/Sol_LeWitt)
+  - [ ] Photon anchors
+  - [ ] Player View
+    - [ ] Every player sees a different part of it / a different prompt
+- [ ] TD / AE video for LED screen
+- [ ] [[Floorplan placement]]
+  - [x] [[Unity]] Scene
+  - [x] Build to [[Meta Quest 3]]
+  - [x] Video
+  - [ ] Documentation
+  - [ ] Playtesting
+- [x] Figma proof on concept
+- [x] Obsidian to quartz trial
+  - [x] set up / node install
+  - [x] customise
+- [x] Photon tests
+- [x] Getting the viewfinder to work
+- [x] Sketchfab mockups
+- [x] Throw some stuff on miro
+- [x] Unity drawing scene (floorplan)
+  - [x] Place floorplan in project
+  - [x] Fix 3D object
+    - [x] image object-fit
+    - [x] Transparent backing
+  - [x] Scale using controllers
+  - [x] Rotate by 90 only?
+  - [x] Fine-tune scale, transparency and rotate values
+  - [x] Alter position
+  - [x] Upload a few floorplans/textures
+  - [x] UI menu
+    - [ ] ~~highlight [not needed/tedious]~~
+  - [x] figure out how to reduce passthrough shakiness
+    - [x] check in build
+      - [x] Video
+    - [ ] check in quest 3
+    - [x] layers in unity
+  - [ ] ~~Two-hand cool scaling [not needed]~
+  - [ ] ~~Highlight the object it is being place on [out of scope]~~
+- [ ] Unity basic scene (revised)
+  - [ ] Automatic scene obj population
+  - [ ] Sand on floor
+  - [ ] Find better assets
+  - [ ] Create a separate script for the simplePreFab spawner

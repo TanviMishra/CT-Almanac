@@ -1,0 +1,15 @@
+---
+tags:
+  - AV
+Created by:
+  - Aaron
+---
+
+| Brand              | Link                                                                                                                                                                                                         | Model          | Sensors                                                                   | Note                                                         |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Framos             | [Framos Depth Sensing Camer](https://www.framos.com/en/products-solutions/3d-depth-sensing)                                                                                                                  | D435e<br>D455e | depth-sensing cameras                                                     | [[PoE]] ethernet-based <br>                                  |
+| SICK               | [Sick Products](https://www.sick.com/gb/en/products-and-solutions/c/g568268#g91899)<br>[TiM581](https://www.sick.com/gb/en/detection-and-ranging-solutions/2d-lidar-sensors/tim5xx/tim581-2050101/p/p619344) | TiM581-2050101 | 2D [[LiDAR]]                                                              | ethernet-based                                               |
+| Industrial cameras |                                                                                                                                                                                                              |                |                                                                           | Usually black-and-white. Can make for huge network bandwidth |
+| Ouster             | [Ouster](https://ouster.com/products/) [OS0](https://ouster.com/products/scanning-lidar/os0-sensor/)                                                                                                         | OSO            | 3D LiDAR                                                                  | Im not a huge fan of this sensor.                            |
+| Turck              | [Turck Sensors](https://www.turck.us/en/productgroup/Sensors;jsessionid=05DCF71353B1391517163086463897DA)<br>                                                                                                |                | various (industrial quality) sensors                                      |                                                              |
+| IFM                | [IFM Website](https://www.ifm.com/us/en)                                                                                                                                                                     |                | sensors for position, process/fluid, motion control, condition monitoring |                                                              |
